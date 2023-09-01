@@ -1,0 +1,43 @@
+
+.center-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.hallAway select {
+    width: 100px;
+    height: 30px;
+}
+.basket {
+    padding: 10px;
+    text-align: center;
+
+}
+.basketButton button {
+    width: 100px;
+    height: 30px;
+    background-color: orange;
+    border: none;
+    margin: 10px;
+    border-radius: 10px;
+}
+.basketRemove img {
+    width: 20px;
+    height: 20px;
+}
+.basketRemove button {
+    border: none;
+    background-color: white;
+    margin: 10px;
+    cursor: pointer;
+}
+.basketBlock {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+
+}
+.basketInfo {
+    margin-top: 11px;
+}

@@ -1,0 +1,76 @@
+.center-block {
+    display: block;
+
+}
+
+.waitingList {
+    padding: 20px;
+    text-align: center;
+}
+.listOfOrders {
+    padding: 20px;
+    text-align: center;
+}
+.listOfOrders button {
+    border: none;
+    background-color: white;
+    margin: 10px;
+    cursor: pointer;
+}
+.listOfOrders img {
+    width: 20px;
+    height: 20px;
+}
+.basketBlock {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+
+}
+.basketInfo {
+    margin-top: 11px;
+}
+
+.basketRemove img {
+    width: 20px;
+    height: 20px;
+}
+.basketRemove button {
+    border: none;
+    background-color: white;
+    margin: 10px;
+    cursor: pointer;
+}
+
+
+.loader {
+    width: 28px;
+    height: 28px;
+    border:10px solid #FFF;
+    border-radius: 50%;
+    position: relative;
+    transform:rotate(45deg);
+    box-sizing: border-box;
+}
+.loader::before {
+    content: "";
+    position: absolute;
+    box-sizing: border-box;
+    inset:-10px;
+    border-radius: 50%;
+    border:5px solid #FF3D00;
+    animation: prixClipFix 2s infinite linear;
+}
+
+@keyframes prixClipFix {
+    0%   {clip-path:polygon(50% 50%,0 0,0 0,0 0,0 0,0 0)}
+    25%  {clip-path:polygon(50% 50%,0 0,100% 0,100% 0,100% 0,100% 0)}
+    50%  {clip-path:polygon(50% 50%,0 0,100% 0,100% 100%,100% 100%,100% 100%)}
+    75%  {clip-path:polygon(50% 50%,0 0,100% 0,100% 100%,0 100%,0 100%)}
+    100% {clip-path:polygon(50% 50%,0 0,100% 0,100% 100%,0 100%,0 0)}
+}
+.spiner {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
