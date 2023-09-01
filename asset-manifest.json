@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/MenuFinal/static/css/main.b8cfa486.css",
+    "main.js": "/MenuFinal/static/js/main.acd0c053.js",
+    "static/media/chikensteack.webp": "/MenuFinal/static/media/chikensteack.1ef6874931fd65d1408f.webp",
+    "static/media/steack.webp": "/MenuFinal/static/media/steack.9740ce0a39d516c01120.webp",
+    "static/media/fishsteack.webp": "/MenuFinal/static/media/fishsteack.f47ecc5e7b3dcb5c3422.webp",
+    "static/media/cezar.webp": "/MenuFinal/static/media/cezar.34829c1ef1fa9903fb7e.webp",
+    "static/media/zakuski1.webp": "/MenuFinal/static/media/zakuski1.b4347e31cab17650dbc0.webp",
+    "static/media/zakuski3.webp": "/MenuFinal/static/media/zakuski3.6459aec892f7332f6cb0.webp",
+    "static/media/icream.webp": "/MenuFinal/static/media/icream.2dab20dee07b861d72ba.webp",
+    "static/media/pirog.webp": "/MenuFinal/static/media/pirog.ce4c737e6ed5df040a82.webp",
+    "static/media/krab.webp": "/MenuFinal/static/media/krab.b914bcd8ca232825cbeb.webp",
+    "static/media/hot.webp": "/MenuFinal/static/media/hot.00f7f41f0679a2103f13.webp",
+    "static/media/tort.webp": "/MenuFinal/static/media/tort.0e3854955734e05495cf.webp",
+    "static/media/zakuski2.webp": "/MenuFinal/static/media/zakuski2.b68a8c17fee9b66c274e.webp",
+    "static/media/free-icon-close-1828665.png": "/MenuFinal/static/media/free-icon-close-1828665.ffdafe3f0eceab67b7c2.png",
+    "static/media/chikensup.webp": "/MenuFinal/static/media/chikensup.1ccaf097033ca24c0df9.webp",
+    "static/media/cola.webp": "/MenuFinal/static/media/cola.fcdff3ec8fa6744e8e71.webp",
+    "static/media/monstreo.webp": "/MenuFinal/static/media/monstreo.057c342368b44715d4a8.webp",
+    "static/media/tomtosup.webp": "/MenuFinal/static/media/tomtosup.451b9cb25e2519221bb4.webp",
+    "static/media/limonad.webp": "/MenuFinal/static/media/limonad.df46fb070f678b96cadc.webp",
+    "static/media/tea.webp": "/MenuFinal/static/media/tea.8c61515ebfb5a99dabf6.webp",
+    "index.html": "/MenuFinal/index.html",
+    "main.b8cfa486.css.map": "/MenuFinal/static/css/main.b8cfa486.css.map",
+    "main.acd0c053.js.map": "/MenuFinal/static/js/main.acd0c053.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8cfa486.css",
+    "static/js/main.acd0c053.js"
+  ]
+}
